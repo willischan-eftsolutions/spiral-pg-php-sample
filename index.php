@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<script src="https://d2tgyn2qxlrcd9.cloudfront.net/js/v1/spiralpg.min.js"></script>
+		<script src="https://sandbox-library-checkout.spiralplatform.com/js/v2/spiralpg.min.js"></script>
 		<!--
 		<script src="./spiralpg.min.js"></script>
         -->
